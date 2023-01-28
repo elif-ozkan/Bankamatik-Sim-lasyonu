@@ -1,0 +1,13 @@
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\bin\Debug\Bankamatik Simülasyonu.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\bin\Debug\Bankamatik Simülasyonu.exe
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\bin\Debug\Bankamatik Simülasyonu.pdb
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik_Simülasyonu.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik_Simülasyonu.Form2.resources
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik_Simülasyonu.Form3.resources
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik_Simülasyonu.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.exe
+C:\Users\elifo\Desktop\PROJELERİM\Bankamatik Simülasyonu\Bankamatik Simülasyonu\obj\Debug\Bankamatik Simülasyonu.pdb
